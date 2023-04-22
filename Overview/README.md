@@ -1,7 +1,6 @@
 # Overview
 
 The world of content creation and distribution is rapidly evolving, with new projects and technologies springing up incessantly. At present, the need for high-quality and user-focused content that engages audiences and drives business results cannot be over-emphasized.
-</br>
 
 At the same time, writers face a range of challenges, from finding work and managing their projects to getting paid fairly for their work.
 </br>
