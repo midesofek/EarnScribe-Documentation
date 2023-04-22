@@ -4,6 +4,7 @@ In addressing the stated challenges, EarnScribe hereby offers the following solu
 
 1. **Light-Speed Hiring Process for Project Developers:** By leveraging advanced algorithms, EarnScribe collates writers’ activities on trusted blogging platforms and ranks writers based on their work and categorizes them based on their niche and area of expertise (e.g. Technical Writing, Storywriting, social media content, etc).
 
+</br>
    Project developers who seek to hire these talents, simply have to hop on the platform and skim through the pool of writers and simply reach out to writers of their choice.
 
 2. **Scalable Incentives for Writers:** To address the issues of low motivation for writers, EarnScribe provides writers with a platform to showcase their work seamlessly, get hired by projects seeking their talents and participate in sponsored content campaigns hosted by projects.
